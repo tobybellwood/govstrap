@@ -29,7 +29,7 @@
     "browser-sync": "^2.18.13",
     "browserify": "^15.2.0",
     "cssnano": "^3.10.0",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "gulp": "^3.9.1",
     "gulp-buffer": "^0.0.2",
     "gulp-casperjs": "0.0.7",

@@ -39,7 +39,7 @@
     "gulp-iconfont-template": "0.0.3",
     "gulp-imagemin": "^4.0.0",
     "gulp-jshint": "^2.0.4",
-    "gulp-modernizr": "^2.0.0",
+    "gulp-modernizr": "^2.0.1",
     "gulp-pa11y": "0.0.4",
     "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^7.0.0",
